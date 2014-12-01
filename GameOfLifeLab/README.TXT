@@ -9,6 +9,14 @@ The goal of this lab is to apply your understanding of decision and loop
 
 Requirements
 
+- size: 20x20
+- live cells: rocks
+- dead cells: empty
+- pattern is already decided
+- runs for 17 generations
+- each generation has 200 milliseconds in between
+- it does not wrap around becuase the specific pattern set does not require it
+
 Write a program that plays Conway’s Game of Life. Conway’s Game of Life is a
 	cellular automaton. From Wikipedia:
 
